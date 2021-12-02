@@ -13,10 +13,15 @@ Bank
 these classes have tgese methode :
 
 Borrow class that used for borroingOperation:
+
 Borrow (string disc, Date date);
+
 Date getDate();
+
 bool isLate(Date deliveryDate);
+
 string getDiscName()
+
 
 Person class used to save information of student:
 Person (string name);
