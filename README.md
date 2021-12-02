@@ -23,7 +23,7 @@ Person (string name);
  string getName();
  int getLateDays();
  void borrow(Disc* disc, Date date);
- void deliver (Disc* disc, Date date);
+ void deliver (Disc* disc, Date date);                                                                                                                                                                            
 
 design tgese program with the best designPatern and method test for each methods
 have luck
